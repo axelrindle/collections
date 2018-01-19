@@ -7,7 +7,6 @@ This repository holds a list of projects from my starred ones which I like the m
   * Android (specific)
   * Node.JS
   * Web
-  * PHP
   * Go
   * C / C++
   * Shell
