@@ -1,5 +1,5 @@
 # collections
-This repository holds a list of projects from my starred ones which I like the most.
+This repository holds collections of projects that I like.
 
 ## Table of contents
 * Software and Libraries
