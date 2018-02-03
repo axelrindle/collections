@@ -7,6 +7,9 @@ This repository holds collections of projects that I like.
   - Apps
 - Games
 - Go
+- Node.JS
+- Tools
+- Other
 
 ## Java / Kotlin
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - *IntelliJ IDEA Community Edition*
@@ -44,3 +47,27 @@ This repository holds collections of projects that I like.
 
 ## Go
 - [gogits/gogs](https://github.com/gogits/gogs) - *Gogs is a painless self-hosted Git service.*
+
+## Node.JS
+- [oe/o7](https://github.com/oe/o7) - *tiny file processor*
+- [tcql/node-yesno](https://github.com/tcql/node-yesno) - *A simple library for asking boolean questions in cli programs*
+- [typicode/hotel](https://github.com/typicode/hotel) - :love_hotel: *A simple process manager for developers. Start apps from your browser and access them using local domains*
+- [npm/node-semver](https://github.com/npm/node-semver) - *The semver parser for node (the one npm uses)*
+- [remarkjs/remark](https://github.com/remarkjs/remark) - *Markdown processor powered by plugins based on [**@unifiedjs**](https://github.com/unifiedjs) (and [**@vfile**](https://github.com/vfile), [**@syntax-tree**](https://github.com/syntax-tree))*
+- [timoxley/columnify](https://github.com/timoxley/columnify) - *Create text-based columns suitable for console output. Supports cell wrapping.*
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - *An easy-to-use multi SQL dialect ORM for Node.js*
+- [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - *Convert bytes to a human readable string: 1337 → 1.34 kB*
+- [MrRio/vtop](https://github.com/MrRio/vtop) - *Wow such top. So stats. More better than regular top.*
+
+## Tools
+- [sdras/object-explorer](https://github.com/sdras/object-explorer) - :fire: *A resource to help figure out what JavaScript object method would be best to use at any given time*
+- [sdras/array-explorer](https://github.com/sdras/array-explorer) - :lightning: *A resource to help figure out what JavaScript array method would be best to use at any given time*
+- [hql287/Manta](https://github.com/hql287/Manta) - :tada: *Flexible invoicing desktop app with beautiful & customizable templates.*
+- [resin-io/etcher](https://github.com/resin-io/etcher) - *Flash OS images to SD cards & USB drives, safely and easily.*
+- [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - *A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.*
+- [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - *HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee.*
+
+## Other
+- [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - *CMS/Wiki system using Javascript for 100% client side single page application using Markdown.*
+- [sindex/no-annoyance](https://github.com/sindex/no-annoyance) - *GNOME Shell Extension NoAnnoyance – Removes the “Windows is ready” notification and puts the window into focus.*
+- [LinxGem33/Arc-Menu](https://github.com/LinxGem33/Arc-Menu) - *Arc menu is a Gnome shell extension designed to replace the standard menu found in Gnome 3*
