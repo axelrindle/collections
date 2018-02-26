@@ -67,6 +67,10 @@ This repository holds collections of projects that I like.
 - [resin-io/etcher](https://github.com/resin-io/etcher) - *Flash OS images to SD cards & USB drives, safely and easily.*
 - [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - *A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.*
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - *HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee.*
+- [railsware/upterm](https://github.com/railsware/upterm) - *A terminal emulator for the 21st century.*
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - :computer: *Democratizing Code Snippets Management (macOS/Win/Linux)*
+- [hainproject/hain](https://github.com/hainproject/hain) - *An 'alt+space' launcher for Windows, built with Electron*
+- [manosim/gitify](https://github.com/manosim/gitify) - *GitHub Notifications on your desktop.*
 
 ## Other
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - *CMS/Wiki system using Javascript for 100% client side single page application using Markdown.*
