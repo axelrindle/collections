@@ -2,14 +2,15 @@
 This repository holds collections of projects that I like.
 
 ## Table of contents
-- Java / Kotlin
-- Android
-  - Apps
-- Games
-- Go
-- Node.JS
-- Tools
-- Other
+- [Java / Kotlin](#java--kotlin)
+- [Android](#android)
+  - [Apps](#apps)
+- [Games](#games)
+  - [Mods, Engines, etc.](#mods-engines-etc)
+- [Go](#go)
+- [Node.js](#nodejs)
+- [Tools](#tools)
+- [Other](#other)
 
 ## Java / Kotlin
 - [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - *IntelliJ IDEA Community Edition*
@@ -52,7 +53,7 @@ This repository holds collections of projects that I like.
 ## Go
 - [gogits/gogs](https://github.com/gogits/gogs) - *Gogs is a painless self-hosted Git service.*
 
-## Node.JS
+## Node.js
 - [oe/o7](https://github.com/oe/o7) - *tiny file processor*
 - [tcql/node-yesno](https://github.com/tcql/node-yesno) - *A simple library for asking boolean questions in cli programs*
 - [typicode/hotel](https://github.com/typicode/hotel) - :love_hotel: *A simple process manager for developers. Start apps from your browser and access them using local domains*
