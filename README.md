@@ -79,6 +79,7 @@ This repository holds collections of projects that I like.
 - [hainproject/hain](https://github.com/hainproject/hain) - *An 'alt+space' launcher for Windows, built with Electron*
 - [manosim/gitify](https://github.com/manosim/gitify) - *GitHub Notifications on your desktop.*
 - [raeleus/skin-composer](https://github.com/raeleus/skin-composer) - *Create skins for LibGDX scene2d.ui with a graphical interface.*
+- [GhostText/GhostText](https://github.com/GhostText/GhostText) - :ghost: *Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).*
 
 ## Other
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - *CMS/Wiki system using Javascript for 100% client side single page application using Markdown.*
