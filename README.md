@@ -86,3 +86,4 @@ This repository holds collections of projects that I like.
 - [sindex/no-annoyance](https://github.com/sindex/no-annoyance) - *GNOME Shell Extension NoAnnoyance – Removes the “Windows is ready” notification and puts the window into focus.*
 - [LinxGem33/Arc-Menu](https://github.com/LinxGem33/Arc-Menu) - *Arc menu is a Gnome shell extension designed to replace the standard menu found in Gnome 3*
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - *Monospaced font with programming ligatures*
+- [desandro/windex](https://github.com/desandro/windex) - *Pretty up your localhost. No more 1996 jank.*
