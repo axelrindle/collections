@@ -18,6 +18,10 @@ This repository holds collections of projects that I like.
 - [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - *KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.*
 
 ## Android
+
+<details>
+<summary><i>Click to reveal</i></summary>
+
 - [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - *A beautiful, fluid, and customizable dialogs API.*
 - [mikepenz/MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - *The flexible, easy to use, all in one drawer library for your Android project.*
 - [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) - *Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application.*
@@ -35,6 +39,8 @@ This repository holds collections of projects that I like.
 - [appwise-labs/NoInternetDialog](https://github.com/appwise-labs/NoInternetDialog) - *A beautiful Dialog which appears when you have lost your internet connection.*
 - [GrenderG/Toasty](https://github.com/GrenderG/Toasty) - *The usual Toast, but with steroids* :muscle:
 - [google/flexbox-layout](https://github.com/google/flexbox-layout) - *Flexbox for Android*
+
+</details>
 
 ### Apps
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - *Material design file manager for Android*
@@ -54,6 +60,10 @@ This repository holds collections of projects that I like.
 - [gogits/gogs](https://github.com/gogits/gogs) - *Gogs is a painless self-hosted Git service.*
 
 ## Node.js
+
+<details>
+<summary><i>Click to reveal</i></summary>
+  
 - [oe/o7](https://github.com/oe/o7) - *tiny file processor*
 - [tcql/node-yesno](https://github.com/tcql/node-yesno) - *A simple library for asking boolean questions in cli programs*
 - [typicode/hotel](https://github.com/typicode/hotel) - :love_hotel: *A simple process manager for developers. Start apps from your browser and access them using local domains*
@@ -67,7 +77,13 @@ This repository holds collections of projects that I like.
 - [chjj/blessed](https://github.com/chjj/blessed) - *A high-level terminal interface library for node.js.*
 - [terkelg/prompts](https://github.com/terkelg/prompts) - *Lightweight, beautiful and user-friendly interactive prompts*
 
+</details>
+
 ## Tools
+
+<details>
+<summary><i>Click to reveal</i></summary>
+  
 - [sdras/object-explorer](https://github.com/sdras/object-explorer) - :fire: *A resource to help figure out what JavaScript object method would be best to use at any given time*
 - [sdras/array-explorer](https://github.com/sdras/array-explorer) - :lightning: *A resource to help figure out what JavaScript array method would be best to use at any given time*
 - [hql287/Manta](https://github.com/hql287/Manta) - :tada: *Flexible invoicing desktop app with beautiful & customizable templates.*
@@ -80,6 +96,8 @@ This repository holds collections of projects that I like.
 - [manosim/gitify](https://github.com/manosim/gitify) - *GitHub Notifications on your desktop.*
 - [raeleus/skin-composer](https://github.com/raeleus/skin-composer) - *Create skins for LibGDX scene2d.ui with a graphical interface.*
 - [GhostText/GhostText](https://github.com/GhostText/GhostText) - :ghost: *Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).*
+
+</details>
 
 ## Other
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - *CMS/Wiki system using Javascript for 100% client side single page application using Markdown.*
