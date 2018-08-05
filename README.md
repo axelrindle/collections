@@ -92,7 +92,6 @@ This repository holds collections of projects that I like.
 - [railsware/upterm](https://github.com/railsware/upterm) - *A terminal emulator for the 21st century.*
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - :computer: *Democratizing Code Snippets Management (macOS/Win/Linux)*
 - [hainproject/hain](https://github.com/hainproject/hain) - *An 'alt+space' launcher for Windows, built with Electron*
-- [manosim/gitify](https://github.com/manosim/gitify) - *GitHub Notifications on your desktop.*
 - [raeleus/skin-composer](https://github.com/raeleus/skin-composer) - *Create skins for LibGDX scene2d.ui with a graphical interface.*
 - [GhostText/GhostText](https://github.com/GhostText/GhostText) - :ghost: *Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).*
 - [egoist/maid](https://github.com/egoist/maid) - *Markdown driven task runner.*
