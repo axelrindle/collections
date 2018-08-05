@@ -7,9 +7,9 @@ This repository holds collections of projects that I like.
   - [Apps](#apps)
 - [Games](#games)
   - [Mods, Engines, etc.](#mods-engines-etc)
-- [Go](#go)
 - [Node.js](#nodejs)
 - [Tools](#tools)
+- [Selfhosted](#selfhosted)
 - [Other](#other)
 
 ## Java / Kotlin
@@ -56,9 +56,6 @@ This repository holds collections of projects that I like.
 - [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - *Modifications to the Minecraft base files to assist in compatibility between mods.*
 - [mezz/JustEnoughItems](https://github.com/mezz/JustEnoughItems) - *Item and Recipe viewing mod for Minecraft*
 
-## Go
-- [gogits/gogs](https://github.com/gogits/gogs) - *Gogs is a painless self-hosted Git service.*
-
 ## Node.js
 
 <details>
@@ -76,6 +73,8 @@ This repository holds collections of projects that I like.
 - [tj/commander.js](https://github.com/tj/commander.js) - *node.js command-line interfaces made easy*
 - [chjj/blessed](https://github.com/chjj/blessed) - *A high-level terminal interface library for node.js.*
 - [terkelg/prompts](https://github.com/terkelg/prompts) - *Lightweight, beautiful and user-friendly interactive prompts*
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - :package::rocket: *Blazing fast, zero configuration web application bundler*
+- [typicode/husky](https://github.com/typicode/husky) - :dog: *Git hooks made easy*
 
 </details>
 
@@ -96,12 +95,22 @@ This repository holds collections of projects that I like.
 - [manosim/gitify](https://github.com/manosim/gitify) - *GitHub Notifications on your desktop.*
 - [raeleus/skin-composer](https://github.com/raeleus/skin-composer) - *Create skins for LibGDX scene2d.ui with a graphical interface.*
 - [GhostText/GhostText](https://github.com/GhostText/GhostText) - :ghost: *Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).*
-- [egoist/maid](https://github.com/egoist/maid) - 'Markdown driven task runner.'
+- [egoist/maid](https://github.com/egoist/maid) - *Markdown driven task runner.*
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - *Official home of the DB Browser for SQLite (DB4S) project.*
+- [Alecaddd/sequeler](https://github.com/Alecaddd/sequeler) - *SQL Client built in Vala*
+- [mcRPW/rpw](https://github.com/mcRPW/rpw) - *Resource Pack Workbench, Minecraft resource pack editor*
+- [getinsomnia/insomnia](https://github.com/getinsomnia/insomnia) - *Cross-platform HTTP and GraphQL Client*
 
 </details>
 
-## Other
+## Selfhosted
+- [gogits/gogs](https://github.com/gogits/gogs) - *Gogs is a painless self-hosted Git service.*
 - [Dynalon/mdwiki](https://github.com/Dynalon/mdwiki) - *CMS/Wiki system using Javascript for 100% client side single page application using Markdown.*
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - *A platform to create documentation/wiki content built with PHP & Laravel*
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio)
+- [flarum/flarum](https://github.com/flarum/flarum) - *Composer starter project for Flarum*
+
+## Other
 - [sindex/no-annoyance](https://github.com/sindex/no-annoyance) - *GNOME Shell Extension NoAnnoyance – Removes the “Windows is ready” notification and puts the window into focus.*
 - [LinxGem33/Arc-Menu](https://github.com/LinxGem33/Arc-Menu) - *Arc menu is a Gnome shell extension designed to replace the standard menu found in Gnome 3*
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - *Monospaced font with programming ligatures*
