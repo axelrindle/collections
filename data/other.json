@@ -1,0 +1,25 @@
+{
+  "heading": "Other",
+  "entries": [
+    {
+      "name": "sindex/no-annoyance",
+      "url": "https://github.com/sindex/no-annoyance",
+      "description": "GNOME Shell Extension NoAnnoyance – Removes the “Windows is ready” notification and puts the window into focus."
+    },
+    {
+      "name": "LinxGem33/Arc-Menu",
+      "url": "https://github.com/LinxGem33/Arc-Menu",
+      "description": "Arc menu is a Gnome shell extension designed to replace the standard menu found in Gnome 3"
+    },
+    {
+      "name": "tonsky/FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Monospaced font with programming ligatures"
+    },
+    {
+      "name": "desandro/windex",
+      "url": "https://github.com/desandro/windex",
+      "description": "Pretty up your localhost. No more 1996 jank."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "heading": "Apps",
+  "entries": [
+    {
+      "name": "TeamAmaze/AmazeFileManager",
+      "url": "https://github.com/TeamAmaze/AmazeFileManager",
+      "description": "Material design file manager for Android"
+    },
+    {
+      "name": "dheera/android-wearcamera",
+      "url": "https://github.com/dheera/android-wearcamera",
+      "description": "Remotely control a phone camera with an Android Wear smartwatch"
+    }
+  ]
+}

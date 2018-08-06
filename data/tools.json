@@ -1,0 +1,85 @@
+{
+  "heading": "Tools",
+  "entries": [
+    {
+      "name": "sdras/object-explorer",
+      "url": "https://github.com/sdras/object-explorer",
+      "description": "A resource to help figure out what JavaScript object method would be best to use at any given time"
+    },
+    {
+      "name": "sdras/array-explorer",
+      "url": "https://github.com/sdras/array-explorer",
+      "description": "A resource to help figure out what JavaScript array method would be best to use at any given time"
+    },
+    {
+      "name": "hql287/Manta",
+      "url": "https://github.com/hql287/Manta",
+      "description": "Flexible invoicing desktop app with beautiful & customizable templates."
+    },
+    {
+      "name": "resin-io/etcher",
+      "url": "https://github.com/resin-io/etcher",
+      "description": "Flash OS images to SD cards & USB drives, safely and easily."
+    },
+    {
+      "name": "romannurik/AndroidAssetStudio",
+      "url": "https://github.com/romannurik/AndroidAssetStudio",
+      "description": "A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory."
+    },
+    {
+      "name": "lrsjng/h5ai",
+      "url": "https://github.com/lrsjng/h5ai",
+      "description": "HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee."
+    },
+    {
+      "name": "railsware/upterm",
+      "url": "https://github.com/railsware/upterm",
+      "description": "A terminal emulator for the 21st century."
+    },
+    {
+      "name": "hackjutsu/Lepton",
+      "url": "https://github.com/hackjutsu/Lepton",
+      "description": "Democratizing Code Snippets Management (macOS/Win/Linux)"
+    },
+    {
+      "name": "hainproject/hain",
+      "url": "https://github.com/hainproject/hain",
+      "description": "An 'alt+space' launcher for Windows, built with Electron"
+    },
+    {
+      "name": "raeleus/skin-composer",
+      "url": "https://github.com/raeleus/skin-composer",
+      "description": "Create skins for LibGDX scene2d.ui with a graphical interface."
+    },
+    {
+      "name": "GhostText/GhostText",
+      "url": "https://github.com/GhostText/GhostText",
+      "description": "Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa)."
+    },
+    {
+      "name": "egoist/maid",
+      "url": "https://github.com/egoist/maid",
+      "description": "Markdown driven task runner."
+    },
+    {
+      "name": "sqlitebrowser/sqlitebrowser",
+      "url": "https://github.com/sqlitebrowser/sqlitebrowser",
+      "description": "Official home of the DB Browser for SQLite (DB4S) project."
+    },
+    {
+      "name": "Alecaddd/sequeler",
+      "url": "https://github.com/Alecaddd/sequeler",
+      "description": "SQL Client built in Vala"
+    },
+    {
+      "name": "mcRPW/rpw",
+      "url": "https://github.com/mcRPW/rpw",
+      "description": "Resource Pack Workbench, Minecraft resource pack editor"
+    },
+    {
+      "name": "getinsomnia/insomnia",
+      "url": "https://github.com/getinsomnia/insomnia",
+      "description": "Cross-platform HTTP and GraphQL Client"
+    }
+  ]
+}

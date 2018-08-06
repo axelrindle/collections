@@ -1,0 +1,90 @@
+{
+  "heading": "Android",
+  "entries": [
+    {
+      "name": "afollestad/material-dialogs",
+      "url": "https://github.com/afollestad/material-dialogs",
+      "description": "A beautiful, fluid, and customizable dialogs API."
+    },
+    {
+      "name": "mikepenz/MaterialDrawer",
+      "url": "https://github.com/mikepenz/MaterialDrawer",
+      "description": "The flexible, easy to use, all in one drawer library for your Android project."
+    },
+    {
+      "name": "mikepenz/Android-Iconics",
+      "url": "https://github.com/mikepenz/Android-Iconics",
+      "description": "Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application."
+    },
+    {
+      "name": "DWorkS/VolleyPlus",
+      "url": "https://github.com/DWorkS/VolleyPlus",
+      "description": "Volley library : make everything faster . Its an improvements for Volley by Google for Android "
+    },
+    {
+      "name": "mikepenz/AboutLibraries",
+      "url": "https://github.com/mikepenz/AboutLibraries",
+      "description": "AboutLibraries is a library to offer some information of libraries."
+    },
+    {
+      "name": "apl-devs/AppIntro",
+      "url": "https://github.com/apl-devs/AppIntro",
+      "description": "Make a cool intro for your Android app."
+    },
+    {
+      "name": "Ereza/CustomActivityOnCrash",
+      "url": "https://github.com/Ereza/CustomActivityOnCrash",
+      "description": "Android library that allows launching a custom activity when your app crashes, instead of showing the hated \"Unfortunately, X has stopped\" dialog."
+    },
+    {
+      "name": "MiguelCatalan/MaterialSearchView",
+      "url": "https://github.com/MiguelCatalan/MaterialSearchView",
+      "description": "Cute library to implement SearchView in a Material Design Approach"
+    },
+    {
+      "name": "afollestad/material-camera",
+      "url": "https://github.com/afollestad/material-camera",
+      "description": "One of the most difficult APIs on Android, made easy in a small library."
+    },
+    {
+      "name": "ByteWelder/Spork",
+      "url": "https://github.com/ByteWelder/Spork",
+      "description": "Annotation processing and dependency injection for Java/Android"
+    },
+    {
+      "name": "Krupen/FabulousFilter",
+      "url": "https://github.com/Krupen/FabulousFilter",
+      "description": "Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa"
+    },
+    {
+      "name": "Karumi/Dexter",
+      "url": "https://github.com/Karumi/Dexter",
+      "description": "Android library that simplifies the process of requesting permissions at runtime."
+    },
+    {
+      "name": "ApplikeySolutions/CosmoCalendar",
+      "url": "https://github.com/ApplikeySolutions/CosmoCalendar",
+      "description": "CosmoCalendar is a fully customizable calendar with a wide variety of features and displaying modes.  "
+    },
+    {
+      "name": "ragunathjawahar/android-saripaar",
+      "url": "https://github.com/ragunathjawahar/android-saripaar",
+      "description": "UI form validation library for Android"
+    },
+    {
+      "name": "appwise-labs/NoInternetDialog",
+      "url": "https://github.com/appwise-labs/NoInternetDialog",
+      "description": "A beautiful Dialog which appears when you have lost your internet connection."
+    },
+    {
+      "name": "GrenderG/Toasty",
+      "url": "https://github.com/GrenderG/Toasty",
+      "description": "The usual Toast, but with steroids"
+    },
+    {
+      "name": "google/flexbox-layout",
+      "url": "https://github.com/google/flexbox-layout",
+      "description": "Flexbox for Android"
+    }
+  ]
+}

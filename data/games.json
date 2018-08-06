@@ -1,0 +1,20 @@
+{
+  "heading": "Games",
+  "entries": [
+    {
+      "name": "watabou/pixel-dungeon",
+      "url": "https://github.com/watabou/pixel-dungeon",
+      "description": "Traditional roguelike game with pixel-art graphics and simple interface"
+    },
+    {
+      "name": "watabou/pixel-dungeon-gdx",
+      "url": "https://github.com/Arcnor/pixel-dungeon-gdx",
+      "description": "LibGDX port of the awesome Pixel Dungeon"
+    },
+    {
+      "name": "bilbolPrime/SPD",
+      "url": "https://github.com/bilbolPrime/SPD",
+      "description": "Skillful Pixel Dungeon"
+    }
+  ]
+}

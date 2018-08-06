@@ -1,0 +1,30 @@
+{
+  "heading": "Selfhosted",
+  "entries": [
+    {
+      "name": "gogits/gogs",
+      "url": "https://github.com/gogits/gogs",
+      "description": "Gogs is a painless self-hosted Git service."
+    },
+    {
+      "name": "Dynalon/mdwiki",
+      "url": "https://github.com/Dynalon/mdwiki",
+      "description": "CMS/Wiki system using Javascript for 100% client side single page application using Markdown."
+    },
+    {
+      "name": "BookStackApp/BookStack",
+      "url": "https://github.com/BookStackApp/BookStack",
+      "description": "A platform to create documentation/wiki content built with PHP & Laravel"
+    },
+    {
+      "name": "verdaccio/verdaccio",
+      "url": "https://github.com/verdaccio/verdaccio",
+      "description": "A lightweight private npm proxy registry"
+    },
+    {
+      "name": "flarum/flarum",
+      "url": "https://github.com/flarum/flarum",
+      "description": "Composer starter project for Flarum"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Java-Kotlin",
+    "data": [
+      {
+        "name": "JetBrains/intellij-community",
+        "url": "https://github.com/JetBrains/intellij-community",
+        "description": "IntelliJ IDEA Community Edition"
+      },
+      {
+        "name": "jfoenixadmin/JFoenix",
+        "url": "https://github.com/jfoenixadmin/JFoenix",
+        "description": "JavaFX Material Design Library"
+      },
+      {
+        "name": "kaikramer/keystore-explorer",
+        "url": "https://github.com/kaikramer/keystore-explorer",
+        "description": "KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner."
+      }
+    ]
+  },
+  {
+    "name": "Android",
+    "data": [
+      {
+        "name": "afollestad/material-dialogs",
+        "url": "https://github.com/afollestad/material-dialogs",
+        "description": "A beautiful, fluid, and customizable dialogs API."
+      },
+      {
+        "name": "mikepenz/MaterialDrawer",
+        "url": "https://github.com/mikepenz/MaterialDrawer",
+        "description": "The flexible, easy to use, all in one drawer library for your Android project."
+      },
+      {
+        "name": "mikepenz/Android-Iconics",
+        "url": "https://github.com/mikepenz/Android-Iconics",
+        "description": "Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application."
+      },
+      {
+        "name": "DWorkS/VolleyPlus",
+        "url": "https://github.com/DWorkS/VolleyPlus",
+        "description": "Volley library : make everything faster . Its an improvements for Volley by Google for Android "
+      },
+      {
+        "name": "mikepenz/AboutLibraries",
+        "url": "https://github.com/mikepenz/AboutLibraries",
+        "description": "AboutLibraries is a library to offer some information of libraries."
+      },
+      {
+        "name": "apl-devs/AppIntro",
+        "url": "https://github.com/apl-devs/AppIntro",
+        "description": "Make a cool intro for your Android app."
+      },
+      {
+        "name": "Ereza/CustomActivityOnCrash",
+        "url": "https://github.com/Ereza/CustomActivityOnCrash",
+        "description": "Android library that allows launching a custom activity when your app crashes, instead of showing the hated \"Unfortunately, X has stopped\" dialog."
+      },
+      {
+        "name": "MiguelCatalan/MaterialSearchView",
+        "url": "https://github.com/MiguelCatalan/MaterialSearchView",
+        "description": "Cute library to implement SearchView in a Material Design Approach"
+      },
+      {
+        "name": "afollestad/material-camera",
+        "url": "https://github.com/afollestad/material-camera",
+        "description": "One of the most difficult APIs on Android, made easy in a small library."
+      },
+      {
+        "name": "ByteWelder/Spork",
+        "url": "https://github.com/ByteWelder/Spork",
+        "description": "Annotation processing and dependency injection for Java/Android"
+      },
+      {
+        "name": "Krupen/FabulousFilter",
+        "url": "https://github.com/Krupen/FabulousFilter",
+        "description": "Android library to animate Floating Action Button to Bottom Sheet Dialog and vice-versa"
+      },
+      {
+        "name": "Karumi/Dexter",
+        "url": "https://github.com/Karumi/Dexter",
+        "description": "Android library that simplifies the process of requesting permissions at runtime."
+      },
+      {
+        "name": "ApplikeySolutions/CosmoCalendar",
+        "url": "https://github.com/ApplikeySolutions/CosmoCalendar",
+        "description": "CosmoCalendar is a fully customizable calendar with a wide variety of features and displaying modes.  "
+      },
+      {
+        "name": "ragunathjawahar/android-saripaar",
+        "url": "https://github.com/ragunathjawahar/android-saripaar",
+        "description": "UI form validation library for Android"
+      },
+      {
+        "name": "appwise-labs/NoInternetDialog",
+        "url": "https://github.com/appwise-labs/NoInternetDialog",
+        "description": "A beautiful Dialog which appears when you have lost your internet connection."
+      },
+      {
+        "name": "GrenderG/Toasty",
+        "url": "https://github.com/GrenderG/Toasty",
+        "description": "The usual Toast, but with steroids"
+      },
+      {
+        "name": "google/flexbox-layout",
+        "url": "https://github.com/google/flexbox-layout",
+        "description": "Flexbox for Android"
+      }
+    ]
+  },
+  {
+    "name": "Apps",
+    "data": [
+      {
+        "name": "TeamAmaze/AmazeFileManager",
+        "url": "https://github.com/TeamAmaze/AmazeFileManager",
+        "description": "Material design file manager for Android"
+      },
+      {
+        "name": "dheera/android-wearcamera",
+        "url": "https://github.com/dheera/android-wearcamera",
+        "description": "Remotely control a phone camera with an Android Wear smartwatch"
+      }
+    ]
+  },
+  {
+    "name": "Games",
+    "data": [
+      {
+        "name": "watabou/pixel-dungeon",
+        "url": "https://github.com/watabou/pixel-dungeon",
+        "description": "Traditional roguelike game with pixel-art graphics and simple interface"
+      },
+      {
+        "name": "watabou/pixel-dungeon-gdx",
+        "url": "https://github.com/Arcnor/pixel-dungeon-gdx",
+        "description": "LibGDX port of the awesome Pixel Dungeon"
+      },
+      {
+        "name": "bilbolPrime/SPD",
+        "url": "https://github.com/bilbolPrime/SPD",
+        "description": "Skillful Pixel Dungeon"
+      }
+    ]
+  },
+  {
+    "name": "Mods-Engines-etc.",
+    "data": [
+      {
+        "name": "libgdx/libgdx",
+        "url": "https://github.com/libgdx/libgdx",
+        "description": "Desktop/Android/HTML5/iOS Java game development framework"
+      },
+      {
+        "name": "MinecraftForge/MinecraftForge",
+        "url": "https://github.com/MinecraftForge/MinecraftForge",
+        "description": "Modifications to the Minecraft base files to assist in compatibility between mods."
+      },
+      {
+        "name": "mezz/JustEnoughItems",
+        "url": "https://github.com/mezz/JustEnoughItems",
+        "description": "Item and Recipe viewing mod for Minecraft"
+      }
+    ]
+  },
+  {
+    "name": "Node.js",
+    "data": [
+      {
+        "name": "oe/o7",
+        "url": "https://github.com/oe/o7",
+        "description": "tiny file processor"
+      },
+      {
+        "name": "tcql/node-yesno",
+        "url": "https://github.com/tcql/node-yesno",
+        "description": "A simple library for asking boolean questions in cli programs"
+      },
+      {
+        "name": "typicode/hotel",
+        "url": "https://github.com/typicode/hotel",
+        "description": "A simple process manager for developers. Start apps from your browser and access them using local domains"
+      },
+      {
+        "name": "npm/node-semver",
+        "url": "https://github.com/npm/node-semver",
+        "description": "The semver parser for node (the one npm uses)"
+      },
+      {
+        "name": "remarkjs/remark",
+        "url": "https://github.com/remarkjs/remark",
+        "description": "Markdown processor powered by plugins based on "
+      },
+      {
+        "name": "timoxley/columnify",
+        "url": "https://github.com/timoxley/columnify",
+        "description": "Create text-based columns suitable for console output. Supports cell wrapping."
+      },
+      {
+        "name": "sequelize/sequelize",
+        "url": "https://github.com/sequelize/sequelize",
+        "description": "An easy-to-use multi SQL dialect ORM for Node.js"
+      },
+      {
+        "name": "sindresorhus/pretty-bytes",
+        "url": "https://github.com/sindresorhus/pretty-bytes",
+        "description": "Convert bytes to a human readable string: 1337 → 1.34 kB"
+      },
+      {
+        "name": "MrRio/vtop",
+        "url": "https://github.com/MrRio/vtop",
+        "description": "Wow such top. So stats. More better than regular top."
+      },
+      {
+        "name": "tj/commander.js",
+        "url": "https://github.com/tj/commander.js",
+        "description": "node.js command-line interfaces made easy"
+      },
+      {
+        "name": "chjj/blessed",
+        "url": "https://github.com/chjj/blessed",
+        "description": "A high-level terminal interface library for node.js."
+      },
+      {
+        "name": "terkelg/prompts",
+        "url": "https://github.com/terkelg/prompts",
+        "description": "Lightweight, beautiful and user-friendly interactive prompts"
+      },
+      {
+        "name": "parcel-bundler/parcel",
+        "url": "https://github.com/parcel-bundler/parcel",
+        "description": "Blazing fast, zero configuration web application bundler"
+      },
+      {
+        "name": "typicode/husky",
+        "url": "https://github.com/typicode/husky",
+        "description": "Git hooks made easy"
+      }
+    ]
+  },
+  {
+    "name": "Tools",
+    "data": [
+      {
+        "name": "sdras/object-explorer",
+        "url": "https://github.com/sdras/object-explorer",
+        "description": "A resource to help figure out what JavaScript object method would be best to use at any given time"
+      },
+      {
+        "name": "sdras/array-explorer",
+        "url": "https://github.com/sdras/array-explorer",
+        "description": "A resource to help figure out what JavaScript array method would be best to use at any given time"
+      },
+      {
+        "name": "hql287/Manta",
+        "url": "https://github.com/hql287/Manta",
+        "description": "Flexible invoicing desktop app with beautiful & customizable templates."
+      },
+      {
+        "name": "resin-io/etcher",
+        "url": "https://github.com/resin-io/etcher",
+        "description": "Flash OS images to SD cards & USB drives, safely and easily."
+      },
+      {
+        "name": "romannurik/AndroidAssetStudio",
+        "url": "https://github.com/romannurik/AndroidAssetStudio",
+        "description": "A set of web-based tools for generating graphics and other assets that would eventually be in an Android application's res/ directory."
+      },
+      {
+        "name": "lrsjng/h5ai",
+        "url": "https://github.com/lrsjng/h5ai",
+        "description": "HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee."
+      },
+      {
+        "name": "railsware/upterm",
+        "url": "https://github.com/railsware/upterm",
+        "description": "A terminal emulator for the 21st century."
+      },
+      {
+        "name": "hackjutsu/Lepton",
+        "url": "https://github.com/hackjutsu/Lepton",
+        "description": "Democratizing Code Snippets Management (macOS/Win/Linux)"
+      },
+      {
+        "name": "hainproject/hain",
+        "url": "https://github.com/hainproject/hain",
+        "description": "An 'alt+space' launcher for Windows, built with Electron"
+      },
+      {
+        "name": "raeleus/skin-composer",
+        "url": "https://github.com/raeleus/skin-composer",
+        "description": "Create skins for LibGDX scene2d.ui with a graphical interface."
+      },
+      {
+        "name": "GhostText/GhostText",
+        "url": "https://github.com/GhostText/GhostText",
+        "description": "Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa)."
+      },
+      {
+        "name": "egoist/maid",
+        "url": "https://github.com/egoist/maid",
+        "description": "Markdown driven task runner."
+      },
+      {
+        "name": "sqlitebrowser/sqlitebrowser",
+        "url": "https://github.com/sqlitebrowser/sqlitebrowser",
+        "description": "Official home of the DB Browser for SQLite (DB4S) project."
+      },
+      {
+        "name": "Alecaddd/sequeler",
+        "url": "https://github.com/Alecaddd/sequeler",
+        "description": "SQL Client built in Vala"
+      },
+      {
+        "name": "mcRPW/rpw",
+        "url": "https://github.com/mcRPW/rpw",
+        "description": "Resource Pack Workbench, Minecraft resource pack editor"
+      },
+      {
+        "name": "getinsomnia/insomnia",
+        "url": "https://github.com/getinsomnia/insomnia",
+        "description": "Cross-platform HTTP and GraphQL Client"
+      }
+    ]
+  },
+  {
+    "name": "Selfhosted",
+    "data": [
+      {
+        "name": "gogits/gogs",
+        "url": "https://github.com/gogits/gogs",
+        "description": "Gogs is a painless self-hosted Git service."
+      },
+      {
+        "name": "Dynalon/mdwiki",
+        "url": "https://github.com/Dynalon/mdwiki",
+        "description": "CMS/Wiki system using Javascript for 100% client side single page application using Markdown."
+      },
+      {
+        "name": "BookStackApp/BookStack",
+        "url": "https://github.com/BookStackApp/BookStack",
+        "description": "A platform to create documentation/wiki content built with PHP & Laravel"
+      },
+      {
+        "name": "verdaccio/verdaccio",
+        "url": "https://github.com/verdaccio/verdaccio",
+        "description": "A lightweight private npm proxy registry"
+      },
+      {
+        "name": "flarum/flarum",
+        "url": "https://github.com/flarum/flarum",
+        "description": "Composer starter project for Flarum"
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "data": [
+      {
+        "name": "sindex/no-annoyance",
+        "url": "https://github.com/sindex/no-annoyance",
+        "description": "GNOME Shell Extension NoAnnoyance – Removes the “Windows is ready” notification and puts the window into focus."
+      },
+      {
+        "name": "LinxGem33/Arc-Menu",
+        "url": "https://github.com/LinxGem33/Arc-Menu",
+        "description": "Arc menu is a Gnome shell extension designed to replace the standard menu found in Gnome 3"
+      },
+      {
+        "name": "tonsky/FiraCode",
+        "url": "https://github.com/tonsky/FiraCode",
+        "description": "Monospaced font with programming ligatures"
+      },
+      {
+        "name": "desandro/windex",
+        "url": "https://github.com/desandro/windex",
+        "description": "Pretty up your localhost. No more 1996 jank."
+      }
+    ]
+  }
+]
