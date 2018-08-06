@@ -14,7 +14,7 @@
     "url": "git+https://github.com/axelrindle/collections.git"
   },
   "author": "Axel Rindle <axel.rindle@gmx.de>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/axelrindle/collections/issues"
   },
