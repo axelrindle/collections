@@ -15,6 +15,11 @@
       "name": "kaikramer/keystore-explorer",
       "url": "https://github.com/kaikramer/keystore-explorer",
       "description": "KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner."
+    },
+    {
+      "name": "requery/requery",
+      "url": "https://github.com/requery/requery",
+      "description": "requery - modern SQL based query & persistence for Java / Kotlin / Android"
     }
   ]
 }
