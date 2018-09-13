@@ -22,6 +22,7 @@ new Vue({
   computed: {
     filteredEntries() {
       const self = this;
+      if (this.entries.length === 0) return [];
       return this.entries.entries.filter(entry => entry.name.indexOf(self.filter) !== -1);
     },
     selectedCategory() {
