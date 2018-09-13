@@ -65,11 +65,11 @@
         <!-- Item list -->
         <div class="list">
 
-          <div class="loading" v-if="loading">
-            <h2>Loading...</h2>
+          <div class="loading" v-if="!shouldShowList">
+            <h2>{{ loadingText }}<h2>
           </div>
 
-          <div class="item" v-else v-for="entry in filteredEntries">
+          <div class="item" v-for="entry in filteredEntries" v-else>
             <b>{{ entry.name }}</b>
             <span><u>{{ entry.description }}</u></span>
           </div>

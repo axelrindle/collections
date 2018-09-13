@@ -25,6 +25,13 @@ new Vue({
     },
     selectedCategory() {
       return this.categories.find(el => el.id === this.category);
+    },
+    shouldShowList() {
+      return this.error === null && this.entries.length > 0;
+    },
+    loadingText() {
+      if (this.error) return this.error.toString();
+      return 'Loading...';
     }
   },
 
