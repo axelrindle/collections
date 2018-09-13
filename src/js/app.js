@@ -16,7 +16,8 @@ new Vue({
     },
     loading: false,
     interval: -1,
-    resetTimestamp: ''
+    resetTimestamp: '',
+    error: null
   },
   computed: {
     filteredEntries() {
@@ -55,6 +56,7 @@ new Vue({
       const url = 'https://api.github.com/repos/axelrindle/collections/contents/data?ref=convert-data';
       const self = this;
       this.loading = true;
+      this.error = null;
       axios.get(url)
         .then(response => {
           self.requests = {
@@ -67,25 +69,21 @@ new Vue({
         })
         .catch(err => {
           console.error(err);
-          alert(err);
-        })
-        .finally(() => {
-          self.loading = false;
+          self.error = err;
         });
     },
     loadEntries() {
       const self = this;
       this.loading = true;
       axios.get(this.selectedCategory.url)
+      this.error = null;
         .then(response => {
+          self.loading = false;
           this.entries = response.data;
         })
         .catch(err => {
           console.error(err);
-          alert(err);
-        })
-        .finally(() => {
-          self.loading = false;
+          self.error = err;
         });
     },
     addApiToken() {
