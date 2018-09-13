@@ -35,7 +35,7 @@
 
           <!-- Category selection -->
           <div class="box">
-            <select v-model="category">
+            <select v-model="category" @change="loadEntries">
               <option v-for="category in categories" :value="category.id">{{ category.name }}</option>
             </select>
           </div>
