@@ -90,9 +90,16 @@ new Vue({
       const def = axios.defaults.headers.common['Authorization'] || '';
       const token = prompt('Enter your Personal Access Token:', def.replace('token ', ''));
       if (token !== null) {
-        axios.defaults.headers.common['Authorization'] = 'token ' + token;
-        localStorage.setItem('token', token);
-        this.loadCategories();
+        if (token !== '') {
+          axios.defaults.headers.common['Authorization'] = 'token ' + token;
+          localStorage.setItem('token', token);
+          this.loadCategories();
+        } else {
+          delete axios.defaults.headers.common['Authorization'];
+          localStorage.removeItem('token');
+          this.$forceUpdate();
+          this.loadCategories();
+        }
       }
     },
     apiButtonText() {
