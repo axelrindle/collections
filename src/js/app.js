@@ -40,9 +40,8 @@ new Vue({
   methods: {
     transformName(name) {
       return capitalize.words(name)
-        .replace('-', ' ')
         .replace('.Json', '')
-        .replace('-Etc', '')
+        .split('-').join(' / ');
     },
     transformResponse(data) {
       return data.map(el => {
