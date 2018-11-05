@@ -47,13 +47,12 @@ new Vue({
       return data.map(el => {
         return {
           id: el.name,
-          name: this.transformName(el.name),
-          url: el.download_url
+          name: this.transformName(el.name)
         };
       });
     },
     loadCategories() {
-      const url = 'https://api.github.com/repos/axelrindle/collections/contents/data?ref=convert-data';
+      const url = 'https://api.github.com/repos/axelrindle/collections/contents/data';
       const self = this;
       this.loading = true;
       this.error = null;
@@ -76,7 +75,7 @@ new Vue({
       const self = this;
       this.loading = true;
       this.error = null;
-      axios.get(this.selectedCategory.url)
+      axios.get('https://github.axelrindle.de/data/' + this.selectedCategory.id)
         .then(response => {
           self.loading = false;
           self.entries = response.data.entries;
