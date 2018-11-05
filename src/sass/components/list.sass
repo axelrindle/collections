@@ -15,11 +15,13 @@
 
   .item
     display: flex
-    flex-flow: row nowrap
-    justify-content: space-between
-    align-items: center
+    flex-flow: column nowrap
     padding: $padding
     transition: all .1s
+    text-decoration: none
+
+    &:link, &:visited
+      color: $text-color
 
     &:not(:last-child)
       border-bottom: 1px solid $text-color

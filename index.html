@@ -66,13 +66,15 @@
         <div class="list">
 
           <div class="loading" v-if="!shouldShowList">
-            <h2>{{ loadingText }}<h2>
+            <h2>{{ loadingText }}</h2>
           </div>
 
-          <div class="item" v-for="entry in filteredEntries" v-else>
+          <a class="item" :href="entry.url" target="_blank"
+             v-for="entry in filteredEntries"
+             v-else>
             <b>{{ entry.name }}</b>
             <span><u>{{ entry.description }}</u></span>
-          </div>
+          </a>
 
         </div> <!-- end .list -->
 
