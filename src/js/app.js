@@ -23,7 +23,7 @@ new Vue({
     filteredEntries() {
       const self = this;
       if (this.entries.length === 0) return [];
-      return this.entries.entries.filter(entry => entry.name.indexOf(self.filter) !== -1);
+      return this.entries.filter(entry => entry.name.indexOf(self.filter) !== -1);
     },
     selectedCategory() {
       return this.categories.find(el => el.id === this.category);
@@ -63,7 +63,7 @@ new Vue({
             left: response.headers['x-ratelimit-remaining'],
             total: response.headers['x-ratelimit-limit'],
             reset: response.headers['x-ratelimit-reset']
-          }
+          };
           self.categories = self.transformResponse(response.data);
           return self.loadEntries();
         })
@@ -75,11 +75,11 @@ new Vue({
     loadEntries() {
       const self = this;
       this.loading = true;
-      axios.get(this.selectedCategory.url)
       this.error = null;
+      axios.get(this.selectedCategory.url)
         .then(response => {
           self.loading = false;
-          this.entries = response.data;
+          self.entries = response.data.entries;
         })
         .catch(err => {
           console.error(err);
