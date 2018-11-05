@@ -1,0 +1,37 @@
+{
+  "private": true,
+  "name": "collections",
+  "version": "1.0.0",
+  "description": "Collection of projects I like.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:js": "parcel build src/js/app.js --no-source-maps -d assets/js",
+    "compile:sass": "parcel build src/sass/style.sass --no-source-maps -d assets/css",
+    "serve": "http-server -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelrindle/collections.git"
+  },
+  "author": "Axel Rindle <axel.rindle@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axelrindle/collections/issues"
+  },
+  "homepage": "https://github.com/axelrindle/collections#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.1.0",
+    "cssnano-preset-advanced": "^4.0.0",
+    "http-server": "^0.11.1",
+    "node-sass": "^4.9.2",
+    "parcel-bundler": "^1.9.7",
+    "postcss-modules": "^1.3.2",
+    "remark-parse": "^5.0.0",
+    "slugify": "^1.3.1",
+    "unified": "^7.0.0"
+  },
+  "dependencies": {
+    "capitalize": "^1.0.0"
+  }
+}

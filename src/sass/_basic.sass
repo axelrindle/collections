@@ -1,0 +1,43 @@
+*
+  outline: 0 !important
+
+html, body, .wrapper
+  height: 100%
+  width: 100%
+  margin: 0
+  font-family: $font-family
+  font-weight: 400
+  color: $text-color
+  overflow: hidden
+
+.wrapper
+  display: flex
+  flex-flow: column nowrap
+  align-items: center
+
+h1
+  font-size: $h1_font_size
+  font-weight: 700
+  margin: $h1_font_size 0
+
+b
+  font-weight: 600
+
+.row
+  display: flex
+  flex-flow: row nowrap
+  justify-content: space-around
+  align-items: center
+
+  & > div:not(:last-child)
+    margin-right: $padding * 8
+
+.column > div:not(:last-child)
+  margin-bottom: $padding * 2
+
+.box
+  border: 1px solid $text-color
+  padding: $padding
+  line-height: 1.5
+  display: flex
+  flex-flow: column nowrap

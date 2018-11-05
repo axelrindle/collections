@@ -1,0 +1,20 @@
+{
+  "heading": "Mods, Engines, etc.",
+  "entries": [
+    {
+      "name": "libgdx/libgdx",
+      "url": "https://github.com/libgdx/libgdx",
+      "description": "Desktop/Android/HTML5/iOS Java game development framework"
+    },
+    {
+      "name": "MinecraftForge/MinecraftForge",
+      "url": "https://github.com/MinecraftForge/MinecraftForge",
+      "description": "Modifications to the Minecraft base files to assist in compatibility between mods."
+    },
+    {
+      "name": "mezz/JustEnoughItems",
+      "url": "https://github.com/mezz/JustEnoughItems",
+      "description": "Item and Recipe viewing mod for Minecraft"
+    }
+  ]
+}

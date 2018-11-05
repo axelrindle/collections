@@ -1,0 +1,75 @@
+{
+  "heading": "Node.js",
+  "entries": [
+    {
+      "name": "oe/o7",
+      "url": "https://github.com/oe/o7",
+      "description": "tiny file processor"
+    },
+    {
+      "name": "tcql/node-yesno",
+      "url": "https://github.com/tcql/node-yesno",
+      "description": "A simple library for asking boolean questions in cli programs"
+    },
+    {
+      "name": "typicode/hotel",
+      "url": "https://github.com/typicode/hotel",
+      "description": "A simple process manager for developers. Start apps from your browser and access them using local domains"
+    },
+    {
+      "name": "npm/node-semver",
+      "url": "https://github.com/npm/node-semver",
+      "description": "The semver parser for node (the one npm uses)"
+    },
+    {
+      "name": "remarkjs/remark",
+      "url": "https://github.com/remarkjs/remark",
+      "description": "Markdown processor powered by plugins based on "
+    },
+    {
+      "name": "timoxley/columnify",
+      "url": "https://github.com/timoxley/columnify",
+      "description": "Create text-based columns suitable for console output. Supports cell wrapping."
+    },
+    {
+      "name": "sequelize/sequelize",
+      "url": "https://github.com/sequelize/sequelize",
+      "description": "An easy-to-use multi SQL dialect ORM for Node.js"
+    },
+    {
+      "name": "sindresorhus/pretty-bytes",
+      "url": "https://github.com/sindresorhus/pretty-bytes",
+      "description": "Convert bytes to a human readable string: 1337 → 1.34 kB"
+    },
+    {
+      "name": "MrRio/vtop",
+      "url": "https://github.com/MrRio/vtop",
+      "description": "Wow such top. So stats. More better than regular top."
+    },
+    {
+      "name": "tj/commander.js",
+      "url": "https://github.com/tj/commander.js",
+      "description": "node.js command-line interfaces made easy"
+    },
+    {
+      "name": "chjj/blessed",
+      "url": "https://github.com/chjj/blessed",
+      "description": "A high-level terminal interface library for node.js."
+    },
+    {
+      "name": "terkelg/prompts",
+      "url": "https://github.com/terkelg/prompts",
+      "description": "Lightweight, beautiful and user-friendly interactive prompts"
+    },
+    {
+      "name": "parcel-bundler/parcel",
+      "url": "https://github.com/parcel-bundler/parcel",
+      "description": "Blazing fast, zero configuration web application bundler"
+    },
+    {
+      "name": "typicode/husky",
+      "url": "https://github.com/typicode/husky",
+      "description": "Git hooks made easy"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Meta stuff -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Page title -->
+    <title>collections</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/img/favicon.png">
+
+    <!-- CSS files -->
+    <link rel="stylesheet" href="assets/vendor/normalize.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+  </head>
+  <body>
+
+    <!-- Github Ribbon -->
+    <a href="https://github.com/axelrindle/collections">
+      <img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png"
+           alt="Fork me on GitHub">
+    </a>
+
+    <!-- Content -->
+    <div class="wrapper" id="app">
+
+      <h1>collections</h1>
+
+      <div class="row">
+
+        <div class="column">
+
+          <!-- Category selection -->
+          <div class="box">
+            <select v-model="category" @change="loadEntries">
+              <option v-for="category in categories" :value="category.id">{{ category.name }}</option>
+            </select>
+          </div>
+
+          <!-- Options -->
+          <div class="box">
+            <input type="text" v-model="filter" placeholder="Filter">
+          </div>
+
+          <!-- Info -->
+          <div class="box">
+            <button class="button" @click="addApiToken" style="margin-bottom: 25px;">{{ apiButtonText() }}</button>
+            <div>
+              <span>Requests:&nbsp;</span>
+              <b>{{ requests.left }}</b>
+              <span>&nbsp;/&nbsp;</span>
+              <b>{{ requests.total }}</b>
+            </div>
+            <div>
+              <span>Resets in:</span>
+              <b>{{ resetTimestamp }}</b>
+            </div>
+          </div>
+
+        </div> <!-- end .column -->
+
+        <!-- Item list -->
+        <div class="list">
+
+          <div class="loading" v-if="!shouldShowList">
+            <h2>{{ loadingText }}</h2>
+          </div>
+
+          <a class="item" :href="entry.url" target="_blank"
+             v-for="entry in filteredEntries"
+             v-else>
+            <b>{{ entry.name }}</b>
+            <span><u>{{ entry.description }}</u></span>
+          </a>
+
+        </div> <!-- end .list -->
+
+      </div> <!-- end .row -->
+    </div> <!-- end .wrapper -->
+
+    <!-- JS files -->
+    <script src="assets/vendor/axios.min.js" charset="utf-8"></script>
+    <script src="assets/vendor/moment.min.js" charset="utf-8"></script>
+    <script src="assets/vendor/vue.min.js" charset="utf-8"></script>
+    <script src="assets/js/app.js" charset="utf-8"></script>
+
+  </body>
+</html>
