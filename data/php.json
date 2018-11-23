@@ -1,0 +1,30 @@
+{
+  "heading": "PHP",
+  "entries": [
+    {
+      "name": "myclabs/php-enum",
+      "url": "https://github.com/myclabs/php-enum",
+      "description": "PHP Enum implementation inspired from SplEnum"
+    },
+    {
+      "name": "filp/whoops",
+      "url": "https://github.com/filp/whoops",
+      "description": "PHP errors for cool kids"
+    },
+    {
+      "name": "danielstjules/Stringy",
+      "url": "https://github.com/danielstjules/Stringy",
+      "description": "A PHP string manipulation library with multibyte support"
+    },
+    {
+      "name": "dannyvankooten/AltoRouter",
+      "url": "https://github.com/dannyvankooten/AltoRouter",
+      "description": "PHP5.3+ Routing Class. Lightweight yet extremely flexible. Supports REST, dynamic and reversed routing."
+    },
+    {
+      "name": "czproject/git-php",
+      "url": "https://github.com/czproject/git-php",
+      "description": "Library for work with Git repositories in PHP."
+    }
+  ]
+}
